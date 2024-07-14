@@ -1,0 +1,14 @@
+/workspaces/codespaces-blank/MinotaurLabyrinth/obj/Debug/net8.0/MinotaurLabyrinth.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/MinotaurLabyrinth/obj/Debug/net8.0/MinotaurLabyrinth.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/MinotaurLabyrinth/obj/Debug/net8.0/MinotaurLabyrinth.AssemblyInfo.cs
+/workspaces/codespaces-blank/MinotaurLabyrinth/obj/Debug/net8.0/MinotaurLabyrinth.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/MinotaurLabyrinth/bin/Debug/net8.0/MinotaurLabyrinth
+/workspaces/codespaces-blank/MinotaurLabyrinth/bin/Debug/net8.0/MinotaurLabyrinth.deps.json
+/workspaces/codespaces-blank/MinotaurLabyrinth/bin/Debug/net8.0/MinotaurLabyrinth.runtimeconfig.json
+/workspaces/codespaces-blank/MinotaurLabyrinth/bin/Debug/net8.0/MinotaurLabyrinth.dll
+/workspaces/codespaces-blank/MinotaurLabyrinth/bin/Debug/net8.0/MinotaurLabyrinth.pdb
+/workspaces/codespaces-blank/MinotaurLabyrinth/obj/Debug/net8.0/MinotaurLabyrinth.dll
+/workspaces/codespaces-blank/MinotaurLabyrinth/obj/Debug/net8.0/refint/MinotaurLabyrinth.dll
+/workspaces/codespaces-blank/MinotaurLabyrinth/obj/Debug/net8.0/MinotaurLabyrinth.pdb
+/workspaces/codespaces-blank/MinotaurLabyrinth/obj/Debug/net8.0/MinotaurLabyrinth.genruntimeconfig.cache
+/workspaces/codespaces-blank/MinotaurLabyrinth/obj/Debug/net8.0/ref/MinotaurLabyrinth.dll
